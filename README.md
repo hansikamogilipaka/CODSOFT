@@ -20,3 +20,19 @@ This project demonstrates how to combine frontend design with chat logic to crea
 ⌨️ Keyboard Support – Press Enter to send messages quickly.
 
 🚀 Getting Started
+🛠️ Technologies Used
+HTML5 – Structure and layout
+
+CSS3 – Styling, dark mode, responsive design
+
+JavaScript (ES6) – Chat logic, typing animation, localStorage persistence
+🎯 Future Enhancements
+🤖 Smarter responses using NLP libraries or APIs
+
+📱 Mobile‑optimized layout
+
+🔊 Voice input/output integration
+
+🎮 Fun mini‑games inside the chatbot 
+📜 License
+This project is licensed under the MIT License — feel free to use, modify, and share.
